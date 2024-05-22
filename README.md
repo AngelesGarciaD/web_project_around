@@ -6,11 +6,15 @@ Primera parte de proyecto creado para desarrollar habilidades de JS
 En donde se trabajó ademas de toda la estructura del diseño de la pagina, un recuadro emergente con funcionalidad para poder editar el perfil de la persona del ejemplo.Más adelante se añadiran todas las funcionalidades requeridas para tener una página interactiva.
 
 # Tecnicas y tecnologias utilizadas
- HTML5
- CSS
- Flexbox
- JavaScrip
- Metodología BEM
- DOM
+ - HTML5
+ - CSS
+ - Flexbox
+ - JavaScrip
+ - Metodología BEM
+ - DOM
 
- 
+# Enlace al código
+
+https://github.com/AngelesGarciaD/web_project_around.git
+
+Dejo este enlace ya que no pude acceder a GitHub Pages. 
