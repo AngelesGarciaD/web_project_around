@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
+<title>Around The U.S.</title>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="index.css">
-  <title>Around The U.S.</title>
 </head>
 <body class="body">
     <header class="header">
@@ -16,9 +16,25 @@
             <div class="profile__info">
                 <h1 class="profile__name">Jacques Cousteau</h1>
                 <button class="profile__edit-button"></button>
-                <p class="profile__about">Explorer</p>
+                <p class="profile__about">Explorador</p>
             </div>
             <button class="profile__add-button" type="button"></button>
+        </section>
+
+        <section class="popup">
+            <form action="#" class="popup__container">
+              <h2 class="popup__title">Editar perfil</h2>
+              <input
+                type="text"
+                class="popup__input popup__input_name"
+                placeholder="Nombre">
+              <input
+                type="text"
+                class="popup__input popup__input_about"
+                placeholder="Acerca de mi">
+              <button class="popup__submit" type="submit">Guardar</button>
+              <button class="popup__close" type="button"></button>
+            </form>
         </section>
 
         <section class="cards">
@@ -85,9 +101,8 @@
           </section>
     </main>
     <footer class="footer">
-      <span class="footer__copyright"
-        >© 2024 Around The U.S. by Ángeles García</span
-      >
+      <span class="footer__copyright">© 2024 Around The U.S. by Ángeles García</span>
     </footer>
     <script src="./scripts/main.js"></script>
-  </body>
+</body>
+</html>

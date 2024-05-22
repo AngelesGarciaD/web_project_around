@@ -5,9 +5,6 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 1rem;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
 }
   
 .cards__card {

@@ -45,8 +45,9 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    color: #fff;
 }
-  
+
 .profile__add-button {
     width: 9.4rem;
     height: 3.1rem;
