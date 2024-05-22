@@ -1,0 +1,36 @@
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  display: block;
+}
+
+body {
+  background-color: #000;
+  margin: auto;
+  max-width: 1280px;
+  font-family: "Inter";
+}
+
+h1 {
+  color: #fff;
+}
+
+h2 {
+  color: #000;
+}
+
+image {
+  width: 100%;
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    padding: 1.75rem 4rem 2.25rem;
+  }
+}
+
+@media screen and (max-width: 569px) {
+  body {
+    padding: 0 1.2rem;
+  }
+}
