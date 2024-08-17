@@ -15,6 +15,4 @@ En donde se trabajó ademas de toda la estructura del diseño de la pagina, un r
 
 # Enlace al código
 
-https://github.com/AngelesGarciaD/web_project_around.git
-
-Dejo este enlace ya que no pude acceder a GitHub Pages. 
+https://angelesgarciad.github.io/web_project_around/
